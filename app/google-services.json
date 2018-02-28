@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834874596790",
+    "firebase_url": "https://quizball-84109.firebaseio.com",
+    "project_id": "quizball-84109",
+    "storage_bucket": "quizball-84109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834874596790:android:a31f6fc6e28d2886",
+        "android_client_info": {
+          "package_name": "com.quizball.android.quizball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834874596790-vuja7uj3kq7qhepja1hkrhmgjsv17kdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizball.android.quizball",
+            "certificate_hash": "3ae85a8f6c8ebcbfe3254fa3dbeada2eabc1e49e"
+          }
+        },
+        {
+          "client_id": "834874596790-maiv671vdqo72l107snrha9ua65819sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp4ui5Ub407LKoVpM3rDGBS41GDZS0L1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834874596790-maiv671vdqo72l107snrha9ua65819sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
